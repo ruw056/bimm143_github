@@ -1,2 +1,2 @@
 # bimm143_github
-classwork for bimm143 at UC San Diego
+classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Diego
