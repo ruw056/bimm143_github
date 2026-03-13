@@ -32,3 +32,15 @@ You can check your project "history" and status
     `git status`
     `git log` (push q to exit)
     
+5. Git Push to sync changes to GitHub
+    The up arrow in RStudio
+    `git push`
+    
+6. Git pull to sync FROM GitHub
+    The down arrow in RStudio
+    `git pull`
+    
+You can check your project "history" and status 
+    `git status`
+    
+  
