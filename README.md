@@ -13,7 +13,7 @@ Class 08 [Cancer](Class08Projectcopy/Class8.md)
 
 Class 09 [Class 9](Class09copy/Class09.md)
 
-Class 11 [Class 11](Class11copy/untitled.md)
+Class 11 [Class 11](Class11copy/Untitled.md)
 
 Class 13 [airway](Class13copy/Class13.md)
 
