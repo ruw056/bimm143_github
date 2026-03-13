@@ -5,7 +5,7 @@ classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Diego
 
 *Introductory classes*
 
-Class 06 [Class 6](Class06copy/Class06/class06.md)
+Class 06 [Class 6](Class06/class06.md)
 
 Class 07 [Machine learning](Class07copy/Class7.md)
 
